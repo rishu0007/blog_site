@@ -1,0 +1,11 @@
+.contact-content {
+    /* height: 454px; */
+    height: 100vh;
+    /* text-align: center; */
+    margin-top: 0px;
+    padding: 5px;
+    position: relative;
+    overflow: hidden;
+    /* background-color: #D2DAFF; */
+}
+

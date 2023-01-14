@@ -1,0 +1,47 @@
+@media (max-width: 1270px) {
+    .navigation {
+        flex-direction: column;
+        margin-bottom: 30px;
+    }
+
+    .nav-left {
+        flex-direction: column;
+        text-align: center;
+        margin-bottom: 20px;
+        margin-top: 15px;
+    }
+
+    .form-input {
+        width: 50%;
+    }
+
+    .content-right {
+        display: none;
+    }
+
+    .home-article {
+        flex-direction: column;
+    }
+
+    .home-article-img {
+        text-align: center;
+        width: 70vw;
+    }
+
+    .form-input {
+        width: 50%;
+    }
+
+    .form-box input, textarea {
+        width: 66vw;
+    }
+
+    .row {
+        flex-direction: column;
+    }
+
+    .post-img {
+        height: auto;
+    }
+
+}
